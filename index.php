@@ -3,7 +3,7 @@ ini_set('error_reporting', E_ALL);
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 
-/*                                                             Patterns                                       */
+/*                                                            Simple  patterns   !                                    */
 /*
  ************************DECORATOR - добавление обьекту новых поведений
 include "Decorator/IDecorator.php";
